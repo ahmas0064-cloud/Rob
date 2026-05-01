@@ -1,17 +1,19 @@
 {
-	"geode": "2.2047",
+	"geode": "3.0.0-beta.1",
 	"gd": {
-		"win": "2.2047",
-		"android": "2.2047",
-		"mac": "2.2047",
-		"ios": "2.2047"
+		"win": "2.204",
+		"android": "2.2047"
 	},
 	"id": "aethtex.modmenu.github",
-	"name": "my own geode mod menu :D",
+	"name": "Aethex GUI",
 	"version": "1.0.2",
 	"developer": "AethTex Team",
-	"description": "just not powerful mod menu                                 ##notes                                              this is my first time making mod!",
-	"dependencies": {
-		"geode.node-ids": ">=v1.1.0"
-	}
+	"description": "My first mod menu for Geometry Dash!",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.1.0",
+			"importance": "required"
+		}
+	]
 }
