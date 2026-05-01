@@ -1,23 +1,26 @@
-# Serpent Mod
-A sleek and slithery Geode mod that brings serpent-themed enhancements to your game.
+# Serpent Lua Mod
 
-<img src="logo.png" width="150" alt="Serpent mod logo" />
+A powerful Lua scripting mod that adds serpent-themed features and functionality.
 
-*Update logo.png with your serpent mod's icon*
+## Features
+- Serpent-themed gameplay enhancements
+- Lua scripting support for custom mechanics
+- Easy to customize and extend
 
-## Getting started
-Head over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) to learn how to get this serpent mod up and running.
+## Installation
+1. Download the latest release
+2. Extract to your mods folder
+3. Enable the mod in your game settings
 
-## Build instructions
-For detailed build information, check out [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Make sure you have the Geode CLI installed
-geode build
+## Usage
+```lua
+-- Example Lua code
+serpent.enable()
+serpent.setSpeed(1.5)
 ```
 
-# Resources
-* [Geode SDK Documentation](https://docs.geode-sdk.org/)
-* [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
-* [Geode CLI](https://github.com/geode-sdk/cli)
-* [Bindings](https://github.com/geode-sdk/bindings/)
-* [Dev Tools](https://github.com/geode-sdk/DevTools)
+## Configuration
+Edit `config.lua` to customize mod behavior and serpent properties.
+
+## Support
+For issues or questions, please open an issue on the repository.
