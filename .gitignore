@@ -1,64 +1,24 @@
-# Prerequisites
-*.d
+# Geode Build Folders
+build/
+bindings/
+.geode/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# IDE files
+.vscode/
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
+# Compiled Binaries
+*.exe
+*.dll
 *.so
 *.dylib
-*.dll
+*.geode
+*.pdb
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Macos be like
-**/.DS_Store
-
-# Cache files for Sublime Text
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-
-# Ignore build folders
-**/build
-# Ignore platform specific build folders
-build-*/
-
-# Workspace files are user-specific
-*.sublime-workspace
-
-# ILY vscode
-**/.vscode
-
-# Local History for Visual Studio Code
-.history/
-
-# clangd
-.cache/
-
-# Visual Studio
-.vs/
-
-# CLion
-.idea/
-/cmake-build-*/
+# System files
+.DS_Store
+Thumbs.db
