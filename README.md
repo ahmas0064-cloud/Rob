@@ -1,17 +1,17 @@
-# Template
-This is where she makes a mod.
+# Serpent Mod
+A sleek and slithery Geode mod that brings serpent-themed enhancements to your game.
 
-<img src="logo.png" width="150" alt="the mod's logo" />
+<img src="logo.png" width="150" alt="Serpent mod logo" />
 
-*Update logo.png to change your mod's icon (please)*
+*Update logo.png with your serpent mod's icon*
 
 ## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
+Head over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) to learn how to get this serpent mod up and running.
 
 ## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
+For detailed build information, check out [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
 ```sh
-# Assuming you have the Geode CLI set up already
+# Make sure you have the Geode CLI installed
 geode build
 ```
 
