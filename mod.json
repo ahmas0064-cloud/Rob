@@ -10,7 +10,7 @@
 	"name": "Lua injector mobile",
 	"version": "1.0.0",
 	"developer": "AethTex Team",
-	"description": "$MOD_DESCRIPTION",
+	"description": "a mod like serpent Lua but for mobile.                                      ##notes                                              this is my first time making mod!",
 	"dependencies": {
 		"geode.node-ids": ">=v1.1.0"
 	}
