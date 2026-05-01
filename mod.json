@@ -6,11 +6,11 @@
 		"mac": "2.2047",
 		"ios": "2.2047"
 	},
-	"id": "aethtex.executorlua.geode",
-	"name": "Lua injector mobile",
+	"id": "aethtex.modmenu.github",
+	"name": "my own geode mod menu :D",
 	"version": "1.0.0",
 	"developer": "AethTex Team",
-	"description": "a mod like serpent Lua but for mobile.                                      ##notes                                              this is my first time making mod!",
+	"description": "just not powerful mod menu"                                  ##notes                                              this is my first time making mod!",
 	"dependencies": {
 		"geode.node-ids": ">=v1.1.0"
 	}
