@@ -1,6 +1,6 @@
 # Lua injecter geode Mod
 
-A powerful Lua scripting mod that adds serpent-themed features and functionality.
+A  NOT powerful Lua scripting mod that can modify code
 
 ## Features
 nothing because it just got released lol
