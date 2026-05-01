@@ -12,6 +12,6 @@
 	"developer": "AethTex Team",
 	"description": "$MOD_DESCRIPTION",
 	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
+		"geode.node-ids": ">=v1.1.0"
 	}
 }
