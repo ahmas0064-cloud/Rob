@@ -17,8 +17,7 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Build Mod
+            - name: Build Mod
         uses: geode-sdk/build-geode-mod@main
         with:
-          bindings-checkout: false
           target: ${{ matrix.config.target }}
