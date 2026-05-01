@@ -1,6 +1,6 @@
-# Lua injecter geode Mod
+# a mod menu just for fun
 
-A  NOT powerful Lua scripting mod that can modify code
+A  NOT powerful mod menu
 
 ## Features
 nothing because it just got released lol
