@@ -6,10 +6,10 @@
 		"mac": "2.2047",
 		"ios": "2.2047"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
+	"id": "aethtex.executorlua.geode",
+	"name": "Lua injector mobile",
+	"version": "1.0.0",
+	"developer": "AethTex Team",
 	"description": "$MOD_DESCRIPTION",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
