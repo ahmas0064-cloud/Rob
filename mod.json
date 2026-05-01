@@ -10,7 +10,7 @@
 	"name": "my own geode mod menu :D",
 	"version": "1.0.0",
 	"developer": "AethTex Team",
-	"description": "just not powerful mod menu"                                  ##notes                                              this is my first time making mod!",
+	"description": "just not powerful mod menu                                 ##notes                                              this is my first time making mod!",
 	"dependencies": {
 		"geode.node-ids": ">=v1.1.0"
 	}
