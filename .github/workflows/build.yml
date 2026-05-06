@@ -41,8 +41,6 @@ jobs:
         with:
           combine: true
           target: ${{ matrix.config.target }}
-          android-ndk-version: 26b
-          android-min-sdk: 23
 
   package:
     name: Package builds
